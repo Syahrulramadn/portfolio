@@ -1,0 +1,28 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+.nav-item :hover{
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    transition-duration: 0.3s;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+.form {
+    margin-bottom: 0.5rem;
+}
+
+section {
+    padding-top: 5rem;
+}
+.port {
+    color: black;
+}
+
+#copyright {
+    text-decoration: none;
+}
